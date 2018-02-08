@@ -1,0 +1,100 @@
+		
+.row{
+	display:flex;
+}
+
+
+		
+		body{
+				background-image :  url("a4.png" );
+		
+			}
+
+		form{
+				border: 5px white;
+			}
+						
+		
+		.box1{
+				text-align: center;
+				background-color: white;
+				color: black;
+				width: 350px;
+				padding: 22px 0px 22px 0px;
+				box-shadow: 2px -3px 38px -3px black;
+				margin: 0px auto;
+				height: 550px;
+				margin-top:100px;
+				margin-right:50px;
+				margin-bottom: 100px;
+			}
+			
+	.container {
+					max-width: 100% !important;
+					overflow-x: hidden !important;
+					font-family: cursive;
+				}
+
+		
+			input[type=text],input[type=text]{
+				outline: none;
+				width: 66%;
+				color: black ;
+				padding: 0px 0;
+				margin: 10px 0;
+				border-radius: 28px;
+				padding-left: 10px;
+				border: none;
+				background: transparent;
+				border-bottom: 1px solid black;	
+			}
+			input[type=email], input[type=password], input[type=date]{
+				outline: none;
+				width: 66%;
+				color: black ;
+				padding: 0px;
+				margin: 10px 0;
+				border-radius: 14px;
+				padding-left: 10px;
+				border: none;
+				background: transparent;
+				border-bottom: 1px solid black;	
+			}
+			
+			input[type=number]{
+				outline: none;
+				width: 60%;
+				color:black !important;
+				padding: 0px 0;
+				margin: 10px 0;
+				border-radius: 14px;
+				padding-left: 10px;
+				border: none;
+				background: transparent;
+				border-bottom: 1px solid black;		
+			}
+			
+			
+	.col-1{
+	width: 8.33%;
+	
+}
+.col-2{
+	display:flex;
+	width: 16.66%;
+	
+}
+.col-3{
+	width: 25%;
+	
+}	
+	
+
+.navbar {
+				margin-bottom: 50px;
+				border-radius: 0;
+		}
+					
+
+							 
+							
